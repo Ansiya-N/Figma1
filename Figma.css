@@ -192,6 +192,9 @@ margin-right: 1.125rem;
 
 	margin-left: 1.563rem;
 	margin-top: 1.75rem;
+	display: flex;
+	flex-direction: column;
+	gap:26.813rem;
 	
 	
 	
@@ -205,7 +208,7 @@ margin-right: 1.125rem;
 	margin-left: 1rem;
 	margin-right: 1rem;
 	margin-top: 1rem;
-	margin-bottom: 26.813rem;
+	
 	
 
 
